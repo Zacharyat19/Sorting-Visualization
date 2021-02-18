@@ -1,2 +1,2 @@
 # Sorting-Visualization
-A Python sorting visualizer
+A sorting visualiser built in python for Bubble, Selection, and Merge sort.

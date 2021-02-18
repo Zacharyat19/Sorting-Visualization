@@ -1,2 +1,3 @@
 # Sorting-Visualization
-A sorting visualiser built in python for Bubble, Selection, and Merge sort.
+A sorting visualiser built in python for Bubble and Merge sort.
+(currently windows only)
